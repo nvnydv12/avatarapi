@@ -8,7 +8,7 @@ import re
 app = Flask(__name__)
 session = requests.Session()
 
-API_KEY = "syuash"
+API_KEY = "suyash"
 INFO_API_URL = "https://info.bhuwanhex.bond/info"
 ICON_API_URL = "https://iconapi.wasmer.app/{item_id}"
 GITHUB_ASSETS_RAW = "https://raw.githubusercontent.com/pankaj07-ux/ff-assets/main"
